@@ -9,7 +9,7 @@ D3 is a JavaScript library for creating dynamic and interactive data visualizati
 - [Basics](#basics)
 - [Selections](#selections)
 
-## Basics
+# Basics
 
 ### Selecting Elements
 
@@ -92,7 +92,7 @@ d3.select('body')
 ```
 
 
-## Selections
+# Selections
 
 ### Selecting Elements
 
